@@ -41,3 +41,13 @@ OpenGLCppWrapper.
 ## https://github.com/ros-industrial/abb (abb_irb2400_support), via https://github.com/Lecrapouille/Robotik
 
 irb2400.urdf, irb2400/visual/*.stl, irb2400/collision/*.stl (ABB IRB 2400)
+
+## https://github.com/mrdoob/three.js/tree/dev/examples/models/gltf/LeePerrySmith
+
+LeePerrySmith/LeePerrySmith.glb, Map-COL.jpg, Infinite-Level_02_Tangent_SmoothUV.jpg:
+"Infinite, 3D Head Scan" by Lee Perry-Smith, CC BY 3.0, based on a work at
+www.triplegangers.com (see LeePerrySmith/LeePerrySmith_License.txt).
+
+## https://github.com/mrdoob/three.js/tree/dev/examples/textures/decal
+
+decal/decal-diffuse.png (CC0 1.0, see decal/LICENSE.TXT)
