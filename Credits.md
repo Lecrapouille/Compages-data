@@ -21,10 +21,6 @@ deep_water.png, fields.png, rocks.png, shallow_water.png, shore.png, snow.png
 
 tree-01.png, tree-02.png
 
-## https://github.com/emargollo/OpenGL-Animator
-
-cowboy.png, cowboy.json
-
 ## https://github.com/mrdoob/three.js/tree/dev/examples/models/gltf
 
 Soldier.glb (Mixamo), RobotExpressive.glb (Tomás Laulhé, Quaternius, CC0)
