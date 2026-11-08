@@ -47,3 +47,21 @@ www.triplegangers.com (see LeePerrySmith/LeePerrySmith_License.txt).
 ## https://github.com/mrdoob/three.js/tree/dev/examples/textures/decal
 
 decal/decal-diffuse.png (CC0 1.0, see decal/LICENSE.TXT)
+
+## NASA (public domain)
+
+planets/earth.jpg: Blue Marble, NASA Goddard Space Flight Center, Scientific Visualization
+Studio (https://svs.gsfc.nasa.gov/2915), converted from PNG to JPEG.
+
+planets/moon.jpg: CGI Moon Kit, colour map from the Lunar Reconnaissance Orbiter Camera
+(LROC), NASA Scientific Visualization Studio (https://svs.gsfc.nasa.gov/4720).
+
+## https://www.solarsystemscope.com/textures
+
+planets/mercury.jpg, venus.jpg, mars.jpg, jupiter.jpg, saturn.jpg, uranus.jpg, neptune.jpg:
+Solar System Scope, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+## https://dejavu-fonts.github.io
+
+fonts/DejaVuSans.ttf: DejaVu Sans 2.37, Bitstream Vera licence with DejaVu changes in the
+public domain (see fonts/DejaVu-LICENSE.txt). The letters of the labels of 10d_EarthMoon.
