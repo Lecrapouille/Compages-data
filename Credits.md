@@ -70,3 +70,8 @@ public domain (see fonts/DejaVu-LICENSE.txt). The letters of the labels of 10d_E
 
 terrain/grass.jpg (Grass004), terrain/sand.jpg (Ground054), terrain/rock.jpg (Rock030):
 the colour maps, scaled to 512 x 512.
+
+## https://github.com/Lecrapouille/IslandedBrowser
+
+archipelago/bookmarks-layout.json: the force directed layout of the 118 public
+bookmarks of IslandedBrowser (bookmarks/example-layout.json), for 10e_Archipelago.
