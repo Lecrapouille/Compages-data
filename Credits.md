@@ -65,3 +65,8 @@ Solar System Scope, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
 fonts/DejaVuSans.ttf: DejaVu Sans 2.37, Bitstream Vera licence with DejaVu changes in the
 public domain (see fonts/DejaVu-LICENSE.txt). The letters of the labels of 10d_EarthMoon.
+
+## https://ambientcg.com/ (CC0 1.0, public domain)
+
+terrain/grass.jpg (Grass004), terrain/sand.jpg (Ground054), terrain/rock.jpg (Rock030):
+the colour maps, scaled to 512 x 512.
