@@ -25,6 +25,15 @@ tree-01.png, tree-02.png
 
 Soldier.glb (Mixamo), RobotExpressive.glb (Tomás Laulhé, Quaternius, CC0)
 
+## https://polyhaven.com (CC0, public domain)
+
+polyhaven/textures/ (1k JPG: colour, OpenGL normal, roughness): concrete_panels,
+metal_plate, rusty_metal_grid, rusty_corrugated_iron, concrete_floor_worn_001,
+concrete_slab_wall.
+polyhaven/models/ (1k glTF, pictures next to each .gltf): bolt_action_rifle_7_62,
+ammo_box, medical_box, barrel_03, old_military_crate, industrial_caged_sconce,
+mounted_fluorescent_lights. Fetched through https://api.polyhaven.com/files/<name>.
+
 ## https://github.com/KhronosGroup/glTF-Sample-Models
 
 Duck.glb (Sony, CC BY 4.0)
